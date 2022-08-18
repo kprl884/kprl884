@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -8,7 +7,8 @@
 - 🤔 I’m looking for help with KMM
 - 💬 Ask me about Android Development
 - 💼 Read my medium blogs : https://medium.com/@alpsteiin
-- 📫 How to reach me: https://www.linkedin.com/in/alparslan-koprulu
+- 📫 How to reach me on linkedin: https://www.linkedin.com/in/alparslan-koprulu
+- 📫 How to reach me on twitter: https://twitter.com/alpsteinOfficia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kprl884&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
