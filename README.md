@@ -3,8 +3,8 @@
 </div>
 
 - 🔭 I’m currently working on Future Mobile Software Solutions
-- 🌱 I’m currently learning Advanced Android Development and  cross frameworks like KMM, React Native, Flutter
-- 🤔 I’m looking for help with KMM
+- 🌱 I’m currently learning Advanced Android Development, Jetpack Compose
+- 🤔 I’m looking for help cross-platform mobile development frameworks like Kotlin Multiplatform Mobile, React Native, Flutter
 - 💬 Ask me about Android Development
 - 💼 Read my medium blogs : https://medium.com/@alpsteiin
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/alparslan-koprulu
