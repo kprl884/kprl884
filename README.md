@@ -3,7 +3,7 @@
 </div>
 
 - 🔭 I’m currently working on Future Mobile Software Solutions
-- 🌱 I’m currently learning Advanced Android Development and looking for cross frameworks like KMM, React Native, Flutter
+- 🌱 I’m currently learning Advanced Android Development and  cross frameworks like KMM, React Native, Flutter
 - 🤔 I’m looking for help with KMM
 - 💬 Ask me about Android Development
 - 💼 Read my medium blogs : https://medium.com/@alpsteiin
