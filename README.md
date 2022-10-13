@@ -9,6 +9,8 @@
 - 💼 Read my medium blogs : https://medium.com/@alpsteiin
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/alparslan-koprulu
 - 📫 How to reach me on twitter: https://twitter.com/alpsteinOfficia
+- 📫 How to reach me on hackerrank: https://www.hackerrank.com/kprl00
+- 📫 How to reach me on codewars: https://www.codewars.com/users/kprl884
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kprl884&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
