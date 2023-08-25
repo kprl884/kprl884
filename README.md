@@ -9,8 +9,6 @@
 - 💼 Read my medium blogs : https://medium.com/@alpsteiin
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/alparslan-koprulu
 - 📫 How to reach me on twitter: https://twitter.com/alpsteinOfficia
-- 📫 How to reach me on hackerrank: https://www.hackerrank.com/kprl00
-- 📫 How to reach me on codewars: https://www.codewars.com/users/kprl884
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kprl884&theme=dark&background=000000)](https://git.io/streak-stats)
